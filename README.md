@@ -3,7 +3,7 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫About me</h2>
 
 ###
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 ###
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🔧Languages and Tools</h2>
 
 ###
 <div align="left">
@@ -41,67 +41,52 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">🌐Socials</h2>
 
 ###
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Social Media Buttons</title>
+  <title>Platform Logos</title>
   <style>
-    .social-buttons {
+    .logo-strip {
       display: flex;
-      gap: 12px;
-      font-family: Arial, sans-serif;
+      gap: 16px;
+      align-items: center;
+      padding: 20px;
     }
 
-    .social-button {
-      display: flex;
-      align-items: center;
-      padding: 10px 16px;
+    .logo-strip img {
+      height: 40px;
       border-radius: 8px;
-      color: white;
-      font-weight: bold;
-      text-decoration: none;
       transition: transform 0.2s ease;
     }
 
-    .social-button img {
-      height: 24px;
-      margin-right: 8px;
-    }
-
-    .instagram { background-color: #E1306C; }
-    .linkedin { background-color: #0077B5; }
-    .medium { background-color: #000000; }
-    .x { background-color: #000000; }
-
-    .social-button:hover {
-      transform: scale(1.05);
+    .logo-strip img:hover {
+      transform: scale(1.1);
     }
   </style>
 </head>
 <body>
-  <div class="social-buttons">
-    <a href="https://www.instagram.com/accounts/onetap/" class="social-button instagram">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
-      Instagram
-    </a>
-    <a href="https://www.linkedin.com" class="social-button linkedin">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-      LinkedIn
-    </a>
-    <a href="https://medium.com" class="social-button medium">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" />
-      Medium
-    </a>
-    <a href="https://x.com" class="social-button x">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" />
-      x
-    </a>
+  <div class="logo-strip">
+    <!-- LinkedIn -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+
+    <!-- Notion (custom icon since Devicon doesn't have Notion) -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" />
+
+    <!-- Medium -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" />
+
+    <!-- HackerRank -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" />
+
+    <!-- Stack Overflow -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" />
   </div>
 </body>
 </html>
+
+
