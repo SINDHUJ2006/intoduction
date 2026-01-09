@@ -7,7 +7,7 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 ###
 
-<p align="left">🎓M.tech Computer Science and Engineering<br>💼 Student <br>📫 How to reach me:sindhujaganathan06@gmail.com</p>
+<p align="left">🎓 M.tech Computer Science and Engineering<br>💼 Student <br>📫 How to reach me:sindhujaganathan06@gmail.com</p>
 
 ###
 
@@ -47,7 +47,7 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sindhu-jaganathan-b05477358/" target="_blank">
+  <a href="https://www.linkedin.com/in/sindhu-jaganathan-b05477358" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <img width="12" />
