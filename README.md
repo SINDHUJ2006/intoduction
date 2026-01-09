@@ -7,7 +7,7 @@ Welcome to my GitHub profile page!! I'm currently pursing my M.tech degree major
 
 ###
 
-<p align="left"><br>🎯 Goals: To become a data analyst </p>
+<p align="left">🎓M.tech Computer Science and Engineering<br>💼 Student <br>📫 How to reach me:sindhujaganathan06@gmail.com</p>
 
 ###
 
